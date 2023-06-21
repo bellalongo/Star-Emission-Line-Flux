@@ -1,0 +1,28 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: Ion, datatype: string}
+# - {name: Wavelength, datatype: string}
+# - {name: Flux, datatype: string}
+# - {name: Error, datatype: string}
+# - {name: Blended line, datatype: string}
+# schema: astropy-2.0
+Ion Wavelength Flux Error "Blended line"
+"C III" "Wavelength: 1176.372" "Flux: 5.286658683303919e-16" "Error: 7.088565040817407e-17" "Blended line: True"
+"Si III" "Wavelength: 1206.499" "Flux: 1.4627958971045945e-15" "Error: 1.384500743041157e-16" "Blended line: False"
+"O V]" "Wavelength: 1218.39" "Flux: -3.545950203072439e-15" "Error: 0" "Blended line: False"
+"N V" "Wavelength: 1242.804" "Flux: 3.053185984498565e-16" "Error: 3.9919115462493534e-17" "Blended line: True"
+"Si II" "Wavelength: 1265.001" "Flux: 2.820501986973615e-16" "Error: 3.2999067120428e-17" "Blended line: True"
+"Si II" "Wavelength: 1304.369" "Flux: 6.195336679386064e-16" "Error: 1.1852280122807772e-16" "Blended line: True"
+"Si II" "Wavelength: 1526.706" "Flux: -3.2002398313167297e-16" "Error: 0" "Blended line: False"
+"Si II" "Wavelength: 1533.43" "Flux: -4.051477794725906e-16" "Error: 0" "Blended line: False"
+"C II" "Wavelength: 1323.952" "Flux: -1.4088491932902155e-16" "Error: 0" "Blended line: True"
+"C II" "Wavelength: 1335.709" "Flux: 7.434436428086928e-16" "Error: 5.335287151770845e-17" "Blended line: True"
+"Fe XXI" "Wavelength: 1354.08" "Flux: -1.497133502801107e-16" "Error: 0" "Blended line: False"
+"O V" "Wavelength: 1371.292" "Flux: -1.663840817151282e-16" "Error: 0" "Blended line: False"
+"Si IV" "Wavelength: 1393.755" "Flux: 6.575652533053239e-16" "Error: 5.3657199322624053e-17" "Blended line: False"
+"O IV" "Wavelength: 1407.383" "Flux: 6.406969282097019e-16" "Error: 6.478461825970878e-17" "Blended line: True"
+"N IV" "Wavelength: 1486.496" "Flux: -3.141142504887935e-16" "Error: 0" "Blended line: False"
+"C IV" "Wavelength: 1550.772" "Flux: 2.061645546756042e-15" "Error: 1.3755229660953444e-16" "Blended line: True"
+"He II" "Wavelength: 1640.42" "Flux: -5.378915431179629e-15" "Error: 0" "Blended line: False"
+"O III" "Wavelength: 1666.142" "Flux: -1.1085634565073761e-15" "Error: 0" "Blended line: False"

@@ -1,0 +1,32 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: Ion, datatype: string}
+# - {name: Wavelength, datatype: string}
+# - {name: Flux, datatype: string}
+# - {name: Error, datatype: string}
+# - {name: Blended line, datatype: string}
+# schema: astropy-2.0
+# DATE = '2023-05-31'
+# FILENAME = 'hlsp_muscles_hst_stis_toi-776_g140l_v1_component-spec.fits'
+# FILETYPE = 'SCI'
+# TELESCOPE = 'HST'
+# INSTRUMENT = 'STIS'
+# GRATING = 'G140L'
+# TARGETNAME = 'TOI776'
+# DOPPLERSHIFT = '93.58363290169132 km / s'
+# PEAKWIDTH = '+/- 3 Angstroms'
+# RANGE = '+/- 6.0 Angstroms'
+# PEAKWIDTHPIXELS = '+/- 5'
+Ion Wavelength Flux Error Blended line
+"C III" "Wavelength: 1176.372" "Flux: 1.6732424659155473e-16" "Error: 3.52145231788952e-17" "Blended line: True"
+"Si III" "Wavelength: 1206.499" "Flux: 9.559958416036782e-16" "Error: 9.508029698746968e-17" "Blended line: False"
+"N V" "Wavelength: 1242.804" "Flux: 1.997211933456861e-16" "Error: 1.9646370795243187e-17" "Blended line: True"
+"Si II" "Wavelength: 1264.737" "Flux: 1.42559076389817e-16" "Error: 1.0870205581243408e-17" "Blended line: False"
+"Si II" "Wavelength: 1304.369" "Flux: 5.054673277140867e-16" "Error: 4.7948455902093866e-17" "Blended line: True"
+"C II" "Wavelength: 1323.952" "Flux: -3.66585821543759e-17" "Error: 0" "Blended line: False"
+"C II" "Wavelength: 1335.709" "Flux: 5.122230787316727e-16" "Error: 5.3823770228259563e-17" "Blended line: True"
+"Si IV" "Wavelength: 1393.755" "Flux: 6.507915397462295e-17" "Error: 1.7696195267120728e-17" "Blended line: False"
+"Si IV" "Wavelength: 1402.77" "Flux: -5.4470396276469516e-17" "Error: 0" "Blended line: False"
+"C IV" "Wavelength: 1550.772" "Flux: 5.275045199286316e-16" "Error: 5.301459727971969e-17" "Blended line: True"
+"He II" "Wavelength: 1640.42" "Flux: 2.6191681734000215e-16" "Error: 5.988574375367888e-17" "Blended line: False"
