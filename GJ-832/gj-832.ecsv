@@ -1,0 +1,25 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: Ion, datatype: string}
+# - {name: Wavelength, datatype: string}
+# - {name: Flux, datatype: string}
+# - {name: Error, datatype: string}
+# - {name: Blended line, datatype: string}
+# schema: astropy-2.0
+# DATE = '2023-06-28'
+# FILENAME = 'hlsp_muscles_hst_stis_gj832_g140m_v22_component-spec.fits'
+# FILETYPE = 'SCI'
+# TELESCOPE = 'HST'
+# INSTRUMENT = 'STIS'
+# GRATING = 'G140M'
+# TARGETNAME = 'GJ832'
+# DOPPLERSHIFT = '-17.665916806016195 km / s'
+# PEAKWIDTH = '+/- 0.35 Angstroms’
+# RANGE = '+/- 0.7 Angstroms’
+# PEAKWIDTHPIXELS = '+/- 6'
+Ion Wavelength Flux Error Blended line
+"Si III" "Wavelength: 1206.499" "Flux: 2.088455163699424e-15" "Error: 4.883659969372591e-16" "Blended line: False"
+"O V" "Wavelength: 1218.39" "Flux: 9.916640584798367e-16" "Error: 3.5434808619131814e-16" "Blended line: False"
+"N V" "Wavelength: 1238.821" "Flux: 2.0175779472411368e-15" "Error: 2.1696727635451828e-16" "Blended line: False"
+"N V" "Wavelength: 1242.804" "Flux: 6.200670523320864e-16" "Error: 1.4211061161144835e-16" "Blended line: False"
