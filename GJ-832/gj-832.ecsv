@@ -11,15 +11,45 @@
 # FILENAME = 'hlsp_muscles_hst_stis_gj832_g140m_v22_component-spec.fits'
 # FILETYPE = 'SCI'
 # TELESCOPE = 'HST'
-# INSTRUMENT = 'STIS'
-# GRATING = 'G140M'
+# INSTRUMENT = 'COS'
+# GRATING = 'G130M + G160M'
 # TARGETNAME = 'GJ832'
-# DOPPLERSHIFT = '-17.665916806016195 km / s'
+# DOPPLERSHIFT = '16.960951175851196 km / s'
 # PEAKWIDTH = '+/- 0.35 Angstroms’
 # RANGE = '+/- 0.7 Angstroms’
-# PEAKWIDTHPIXELS = '+/- 6'
+# PEAKWIDTHPIXELS = '+/- 35'
 Ion Wavelength Flux Error Blended line
-"Si III" "Wavelength: 1206.499" "Flux: 2.088455163699424e-15" "Error: 4.883659969372591e-16" "Blended line: False"
-"O V" "Wavelength: 1218.39" "Flux: 9.916640584798367e-16" "Error: 3.5434808619131814e-16" "Blended line: False"
-"N V" "Wavelength: 1238.821" "Flux: 2.0175779472411368e-15" "Error: 2.1696727635451828e-16" "Blended line: False"
-"N V" "Wavelength: 1242.804" "Flux: 6.200670523320864e-16" "Error: 1.4211061161144835e-16" "Blended line: False"
+"C III" "Wavelength: 1176.372" "Flux: 2.874121330886891e-15" "Error: 5.302658984364116e-17" "Blended line: True"
+"Si III" "Wavelength: 1206.499" "Flux: 1.7725681076935236e-15" "Error: 4.355336069924142e-17" "Blended line: False"
+"Si III" "Wavelength: 1294.543" "Flux: 4.977401030560315e-17" "Error: 1.0105217676795612e-17" "Blended line: False"
+"Si III" "Wavelength: 1296.726" "Flux: 4.9732861636957246e-17" "Error: 9.836721806777622e-18" "Blended line: False"
+"Si III" "Wavelength: 1298.944" "Flux: 1.6025433992302633e-16" "Error: 1.5767846158702673e-17" "Blended line: True"
+"Si III" "Wavelength: 1301.147" "Flux: 1.0150914053666507e-16" "Error: 0" "Blended line: False"
+"Si III" "Wavelength: 1303.323" "Flux: 1.0146561433609474e-16" "Error: 0" "Blended line: False"
+"O V" "Wavelength: 1218.39" "Flux: 5.314273651950201e-16" "Error: 3.3116045204019194e-17" "Blended line: False"
+"N V" "Wavelength: 1238.821" "Flux: 2.6398705967870464e-15" "Error: 4.3287323624817005e-17" "Blended line: False"
+"N V" "Wavelength: 1242.804" "Flux: 1.3128765825238094e-15" "Error: 3.223090842382149e-17" "Blended line: False"
+"S II" "Wavelength: 1253.811" "Flux: 1.884855718437854e-17" "Error: 8.855265293624268e-18" "Blended line: False"
+"S II" "Wavelength: 1259.519" "Flux: 6.077485118223886e-18" "Error: 9.086438709774251e-18" "Blended line: False"
+"Si II" "Wavelength: 1260.417" "Flux: 9.438821476512583e-17" "Error: 1.0927790294521445e-17" "Blended line: False"
+"Si II" "Wavelength: 1265.001" "Flux: 5.463366947315066e-16" "Error: 2.071282319753452e-17" "Blended line: True"
+"Si II" "Wavelength: 1304.369" "Flux: 2.877547999259466e-16" "Error: 0" "Blended line: False"
+"Si II" "Wavelength: 1526.706" "Flux: 2.1847182552992677e-16" "Error: 8.694873959800256e-17" "Blended line: False"
+"Si II" "Wavelength: 1533.43" "Flux: 2.4718291867217165e-16" "Error: 8.788971305106575e-17" "Blended line: False"
+"C II" "Wavelength: 1323.952" "Flux: 1.553124383927603e-17" "Error: 9.891058453471949e-18" "Blended line: True"
+"C II" "Wavelength: 1334.524" "Flux: 8.295161400294665e-16" "Error: 3.275306432745832e-17" "Blended line: False"
+"C II" "Wavelength: 1335.709" "Flux: 4.2440088936352465e-15" "Error: 5.872972887105162e-17" "Blended line: False"
+"Fe XXI" "Wavelength: 1354.08" "Flux: 1.0620855063069553e-17" "Error: 1.0141848515496169e-17" "Blended line: False"
+"O V" "Wavelength: 1371.292" "Flux: 9.592946725158071e-17" "Error: 1.2278869709997143e-17" "Blended line: False"
+"Si IV" "Wavelength: 1393.755" "Flux: 7.657660317444783e-16" "Error: 6.680941811282465e-16" "Blended line: False"
+"Si IV" "Wavelength: 1402.77" "Flux: 1.2378004682281678e-15" "Error: 5.574563146318595e-16" "Blended line: False"
+"O IV" "Wavelength: 1399.779" "Flux: 1.2885942650804798e-16" "Error: 4.3931425451494837e-16" "Blended line: False"
+"O IV" "Wavelength: 1401.171" "Flux: 1.1973054547135817e-16" "Error: 4.431171133322555e-16" "Blended line: False"
+"O IV" "Wavelength: 1407.383" "Flux: 1.5637253045463035e-16" "Error: 4.4027587915489004e-16" "Blended line: False"
+"S IV" "Wavelength: 1404.818" "Flux: 1.6725572959723613e-16" "Error: 4.444205579024733e-16" "Blended line: False"
+"S IV" "Wavelength: 1406.016" "Flux: 6.564287217685132e-17" "Error: 4.442937372144608e-16" "Blended line: False"
+"N IV" "Wavelength: 1486.496" "Flux: 1.3442438079261393e-16" "Error: 7.397000414225646e-17" "Blended line: False"
+"C IV" "Wavelength: 1548.201" "Flux: 4.673091220979566e-15" "Error: 1.6856225085540885e-16" "Blended line: False"
+"C IV" "Wavelength: 1550.772" "Flux: 2.197456131772647e-15" "Error: 1.365407092888817e-16" "Blended line: False"
+"He II" "Wavelength: 1640.42" "Flux: 5.734711486064185e-15" "Error: 2.75215566029496e-16" "Blended line: False"
+"O III" "Wavelength: 1666.142" "Flux: 1.9138806758275877e-16" "Error: 1.7477268122979223e-16" "Blended line: False"
