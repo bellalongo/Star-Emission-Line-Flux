@@ -1,4 +1,4 @@
-# Star-Emission-Line-Flux
+# Spectra Flux Collection
 
 ### Description:
 Each Jupyter Notebook contains the step-by-step processes for calculating the emission line flux of a star given a fits file. 
