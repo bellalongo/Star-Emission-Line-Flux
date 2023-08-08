@@ -18,15 +18,15 @@
 # PEAKWIDTH = '+/- 3 Angstroms'
 # RANGE = '+/- 6.0 Angstroms'
 # PEAKWIDTHPIXELS = '+/- 5'
-Ion Wavelength Flux Error Blended line
-"C III" "Wavelength: 1176.372" "Flux: 1.6732424659155473e-16" "Error: 3.52145231788952e-17" "Blended line: True"
-"Si III" "Wavelength: 1206.499" "Flux: 9.559958416036782e-16" "Error: 9.508029698746968e-17" "Blended line: False"
-"N V" "Wavelength: 1242.804" "Flux: 1.997211933456861e-16" "Error: 1.9646370795243187e-17" "Blended line: True"
-"Si II" "Wavelength: 1264.737" "Flux: 1.42559076389817e-16" "Error: 1.0870205581243408e-17" "Blended line: False"
-"Si II" "Wavelength: 1304.369" "Flux: 5.054673277140867e-16" "Error: 4.7948455902093866e-17" "Blended line: True"
-"C II" "Wavelength: 1323.952" "Flux: -3.66585821543759e-17" "Error: 0" "Blended line: False"
-"C II" "Wavelength: 1335.709" "Flux: 5.122230787316727e-16" "Error: 5.3823770228259563e-17" "Blended line: True"
-"Si IV" "Wavelength: 1393.755" "Flux: 6.507915397462295e-17" "Error: 1.7696195267120728e-17" "Blended line: False"
-"Si IV" "Wavelength: 1402.77" "Flux: -5.4470396276469516e-17" "Error: 0" "Blended line: False"
-"C IV" "Wavelength: 1550.772" "Flux: 5.275045199286316e-16" "Error: 5.301459727971969e-17" "Blended line: True"
-"He II" "Wavelength: 1640.42" "Flux: 2.6191681734000215e-16" "Error: 5.988574375367888e-17" "Blended line: False"
+Ion Wavelength Flux Error "Blended line"
+"C III" "Wavelength: 1176.372" "Flux: 2.2691930455609014e-16" "Error: 3.65518141339874e-17" "Blended line: True"
+"Si III" "Wavelength: 1206.499" "Flux: 1.9030638613381423e-15" "Error: 1.8211329481007677e-16" "Blended line: False"
+"N V" "Wavelength: 1242.804" "Flux: 2.052413896935092e-16" "Error: 2.0350479899910956e-17" "Blended line: True"
+"Si II" "Wavelength: 1264.737" "Flux: 1.5099906408115512e-16" "Error: 1.1403014437812306e-17" "Blended line: False"
+"Si II" "Wavelength: 1304.369" "Flux: 4.906900429349936e-16" "Error: 4.819644491273275e-17" "Blended line: True"
+"C II" "Wavelength: 1323.952" "Flux: -3.8695910554532635e-17" "Error: 0" "Blended line: False"
+"C II" "Wavelength: 1335.709" "Flux: 5.032749353912823e-16" "Error: 5.390798639760014e-17" "Blended line: True"
+"Si IV" "Wavelength: 1393.755" "Flux: 7.318229906616864e-17" "Error: 1.9023280470084173e-17" "Blended line: False"
+"Si IV" "Wavelength: 1402.77" "Flux: 8.366078303756221e-17" "Error: 1.8748701030918646e-17" "Blended line: False"
+"C IV" "Wavelength: 1550.772" "Flux: 5.194622465181627e-16" "Error: 5.378910030094314e-17" "Blended line: True"
+"He II" "Wavelength: 1640.42" "Flux: 2.693276743781405e-16" "Error: 6.099009844353558e-17" "Blended line: False"
