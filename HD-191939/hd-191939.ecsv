@@ -1,0 +1,43 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: Ion, datatype: string}
+# - {name: Rest Wavelength, datatype: float64}
+# - {name: Flux, datatype: float64}
+# - {name: Error, datatype: float64}
+# - {name: Blended Line, datatype: bool}
+# meta: !!omap
+# - {DATE: '2024-04-16'}
+# - {FILENAME: spectra/of0e53010_test_new_x1d.fits}
+# - {FILETYPE: SCI}
+# - {TELESCP: HST}
+# - {INSTRMNT: STIS}
+# - {GRATING: G140L}
+# - {TARGNAME: HD-191939}
+# - {DOPPLER: -250.58227445943578 km/s}
+# - {WIDTH: +/- 5.0 Angstroms}
+# - {RANGE: +/- 10.0 Angstroms}
+# - {WIDTHPXL: '8'}
+# - {UPRLIMIT: 3*error}
+# schema: astropy-2.0
+Ion "Rest Wavelength" Flux Error "Blended Line"
+"C III" 1176.372 7.999069541224157e-16 2.7501506445680925e-16 True
+"Si III" 1206.499 -7.143874355986861e-16 0.0 False
+"Si III" 1303.323 -7.919437156802108e-16 0.0 True
+"O V" 1218.39 -3.3293614968965856e-15 0.0 False
+"O V" 1371.292 -2.9925567130444466e-16 0.0 False
+"N V" 1242.804 -3.968237554568969e-16 0.0 True
+"S II" 1259.519 -3.44476177711992e-16 0.0 True
+"Si II" 1265.001 -3.199287763676617e-16 0.0 True
+"Si II" 1304.369 -7.420894694829901e-16 0.0 False
+"Si II" 1533.43 -5.95020191040527e-16 0.0 True
+"C II" 1323.952 -2.565931705983022e-16 0.0 True
+"C II" 1335.709 8.659912460887158e-16 1.2969127871898377e-16 True
+"Fe XXI" 1354.08 1.0089255288647475e-15 1.2319837169785392e-16 False
+"Si IV" 1402.77 -4.686652904881756e-16 0.0 True
+"O IV" 1407.383 -4.2905894213343725e-16 0.0 True
+"S IV" 1406.016 -3.3232528883575863e-16 0.0 True
+"N IV" 1486.496 -4.257553714938606e-16 0.0 False
+"C IV" 1550.772 -6.836082497336654e-16 0.0 True
+"He II" 1640.42 -8.064672528477591e-16 0.0 False
+"O III" 1666.142 -1.020772625849919e-15 0.0 False
